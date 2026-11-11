@@ -9,7 +9,7 @@ Freelance web developer and digital agency executor based in Nairobi, Kenya. I b
 
 ## 🚀 Currently Building
 
-**[Aesthetify](https://aesthetify.co.ke)** - A Kenyan print-on-demand platform where creators upload designs and earn 80% of their markup per sale, with M-PESA payouts and printer-partner fulfillment.
+**Quantum Random Number Generator (QRNG) **- for participation in **IBM** in partnership with **QISKIT** hackathon
 
 ## 🛠️ Core Stack
 
