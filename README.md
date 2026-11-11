@@ -9,7 +9,7 @@ Freelance web developer and digital agency executor based in Nairobi, Kenya. I b
 
 ## 🚀 Currently Building
 
-**Quantum Random Number Generator (QRNG) **- for participation in **IBM** in partnership with **QISKIT** hackathon
+****Quantum Random Number Generator (QRNG)** **- for participation in **IBM** in partnership with **QISKIT** hackathon
 
 ## 🛠️ Core Stack
 
